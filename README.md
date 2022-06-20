@@ -1,0 +1,1 @@
+This repository includes Iris Species dataset (https://www.kaggle.com/datasets/uciml/iris) analysis and manuel decision tree implementation. Jupyter file includes data analysis, train, test and results.
